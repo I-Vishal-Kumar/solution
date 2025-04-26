@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useState } from "react";
 import { BsInstagram, BsLinkedin, BsTwitter } from "react-icons/bs";
 import { CgClose } from "react-icons/cg";
-import { FaFacebook, FaHamburger } from "react-icons/fa";
+import { FaFacebook } from "react-icons/fa";
 import { GiHamburger } from "react-icons/gi";
 
 export const Header: React.FC = () => {
@@ -19,7 +19,7 @@ export const Header: React.FC = () => {
                     className="max-w-[100px] md:max-w-[150px]" width={200} height={50} />
 
                 <div className="md:hidden flex items-center justify-end  w-full">
-                    <button title="show option" type="button" onClick={_ => setOptions(prev => !prev)} className="focus:outline-none">
+                    <button title="show option" type="button" onClick={(_) => setOptions(prev => !prev)} className="focus:outline-none">
                         {
                             showOptions ? <CgClose /> : <GiHamburger />
                         }

@@ -1,7 +1,6 @@
 import { ContactUs } from "@/components/contactUs";
 import { Navigation } from "@/components/navigation";
 import Image from "next/image";
-import Link from "next/link";
 import { ReactNode } from "react";
 import { BiEdit, BiRecycle } from "react-icons/bi";
 import { CgLock } from "react-icons/cg";

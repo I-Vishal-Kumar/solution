@@ -1,4 +1,4 @@
-export default function () {
+export default function Disclaimer() {
     return (
         <main>
             <div className="h-18 w-full bg-[#212d45]" />

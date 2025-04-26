@@ -1,10 +1,4 @@
 import { Navigation } from "@/components/navigation";
-import Image from "next/image";
-import { ReactNode } from "react";
-import { BiBuilding } from "react-icons/bi";
-import { BsBank } from "react-icons/bs";
-import { HiHome } from "react-icons/hi";
-import { ServiceItem } from "../page";
 
 export default function ContactUs() {
 

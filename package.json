@@ -6,7 +6,8 @@
     "dev": "next dev -p 3001 --turbopack ",
     "build": "next build",
     "start": "next start -p 3001",
-    "lint": "next lint"
+    "lint": "next lint",
+    "tsc" : "npx tsc --noEmit"
   },
   "dependencies": {
     "next": "15.3.1",
