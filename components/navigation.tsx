@@ -5,9 +5,9 @@ export function Navigation() {
         <div className="md:flex pt-12 hidden justify-between">
             <div className="w-[40%] flex text-md pl-8 gap-x-8">
                 <Link href={'#'} className="hover:text-yellow-500">Home</Link>
-                <Link href={'#'} className="hover:text-yellow-500">About</Link>
-                <Link href={'#'} className="hover:text-yellow-500">Services</Link>
-                <Link href={'#'} className="hover:text-yellow-500">Contact Us</Link>
+                <Link href={'/about'} className="hover:text-yellow-500">About</Link>
+                <Link href={'/services'} className="hover:text-yellow-500">Services</Link>
+                <Link href={'/contact-us'} className="hover:text-yellow-500">Contact Us</Link>
             </div>
             <button className="bg-yellow-300 text-black py-3 px-12">
                 GET A QUOTE
