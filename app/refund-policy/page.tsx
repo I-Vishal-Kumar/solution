@@ -39,7 +39,7 @@ export default function Refund() {
                         <p>
                             <strong>Company</strong> (referred to as either “the
                             Company”, “We”, “Us” or “Our” in this Agreement)
-                            refers to Gen Solution, 03, LARI KALAN FANIKPUR
+                            refers to KAMAOX, 03, LARI KALAN FANIKPUR
                             RAMGARH Jhārkhand India 825101..
                         </p>
                     </li>
@@ -62,7 +62,7 @@ export default function Refund() {
                     </li>
                     <li>
                         <p>
-                            <strong>Website</strong> refers to Gen Solution,
+                            <strong>Website</strong> refers to KAMAOX,
                             accessible from{" "}
                             <a
                                 href="https://Kamaox.shop/"

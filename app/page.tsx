@@ -104,7 +104,7 @@ function Testimonials() {
       <div className="grid gap-2 lg:gap-4 md:grid-cols-2 m-4 mt-12 grid-cols-1">
         <Testimonial heading="Exceptional Service and Results" subHeading="Priya Menon" subSubHeading="Partnering with [Your Business Name] was the best decision for our business. Their expertise in digital marketing brought in more leads than we imagined. Highly recommend!" src="/testimonial_av_1.png" />
         <Testimonial heading="A Game-Changer for Our Growth!" subHeading="Amit Sharma" subSubHeading="From website development to SEO strategies, [Your Business Name] exceeded our expectations. They truly understood our goals and delivered beyond what we thought possible." src="/testimonial_av_2.png" />
-        <Testimonial heading="Creative, Reliable, and Professional" subHeading="Ravi Gupta" subSubHeading="The team at Gen Solution transformed our social media presence. Our engagement rates skyrocketed, and we finally feel connected to our audience." src="/testimonial_av_3.png" />
+        <Testimonial heading="Creative, Reliable, and Professional" subHeading="Ravi Gupta" subSubHeading="The team at KAMAOX transformed our social media presence. Our engagement rates skyrocketed, and we finally feel connected to our audience." src="/testimonial_av_3.png" />
         <Testimonial heading="Outstanding Support and Expertise!" subHeading="Neha Patel" subSubHeading="What sets [Your Business Name] apart is their dedication and transparency. Their analytics reports were detailed and insightful, helping us make informed decisions." src="/testimonial_av_4.png" />
       </div>
     </div>
@@ -179,7 +179,7 @@ function GrowthSection() {
         </div>
         <div className="bg-[#ffc03d]/80 p-8 lg:flex lg:flex-col justify-center lg:p-18 space-y-4 text-gray-800 pb-2 relative flex-1">
           <p className="text-2xl font-bold ">We Follow Best Practices</p>
-          <p className="text-md">At Gen Solution, we help entrepreneurs like you turn their vision into success.</p>
+          <p className="text-md">At KAMAOX, we help entrepreneurs like you turn their vision into success.</p>
           <div className="mt-8 space-y-3">
             <Button startIcon={
               <BiRecycle />

@@ -20,7 +20,7 @@ export default function Disclaimer() {
                     <li>
                         <strong>Company</strong> (referred to as either “the
                         Company”, “We”, “Us” or “Our” in this Disclaimer) refers
-                        to Gen Solution, 03, LARI KALAN FANIKPUR RAMGARH
+                        to KAMAOX, 03, LARI KALAN FANIKPUR RAMGARH
                         Jhārkhand India 825101..
                     </li>
                     <li>

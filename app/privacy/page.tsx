@@ -117,7 +117,7 @@ export default function Privacy() {
                     </li>
                     <li>
                         <p>
-                            <strong>Website</strong> refers to Gen Solution,
+                            <strong>Website</strong> refers to KAMAOX,
                             accessible from{" "}
                             <a
                                 href="https://kamaox.shop/"
