@@ -15,7 +15,7 @@ export const Header: React.FC = () => {
         <header className="bg-none shadow-md p-4">
             <div className="max-w-7xl mx-auto flex justify-between items-center">
 
-                <Image alt="gen solution logo" src={'/Kamaox.png'}
+                <Image alt="KAMAOX logo" src={'/Kamaox.png'}
                     sizes="(max-width: 768px) 100px, 150px"
                     className="max-w-[100px] md:max-w-[150px]" width={80} height={50} />
 

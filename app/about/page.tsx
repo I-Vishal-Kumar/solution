@@ -41,7 +41,7 @@ export default function About() {
                         Our team of experienced professionals is always ahead of the curve when it comes to the latest trends and techniques in digital marketing.
                     </p><br /><br />
                     <p className="text-sm text-balance">
-                        Gen Solution was founded with a mission to bridge the gap between businesses and their digital potential. Starting as a small venture, we have evolved into a team of passionate professionals committed to delivering top-notch digital marketing solutions. From website development to SEO, paid advertising, and social media management, we help businesses unlock opportunities for sustainable growth.  </p>
+                        KAMAOX was founded with a mission to bridge the gap between businesses and their digital potential. Starting as a small venture, we have evolved into a team of passionate professionals committed to delivering top-notch digital marketing solutions. From website development to SEO, paid advertising, and social media management, we help businesses unlock opportunities for sustainable growth.  </p>
 
                     <br />
                     <br />
