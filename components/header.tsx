@@ -14,9 +14,10 @@ export const Header: React.FC = () => {
     return (
         <header className="bg-none shadow-md p-4">
             <div className="max-w-7xl mx-auto flex justify-between items-center">
-                <Image alt="gen solution logo" src={'/logo.png'}
+
+                <Image alt="gen solution logo" src={'/Kamaox.png'}
                     sizes="(max-width: 768px) 100px, 150px"
-                    className="max-w-[100px] md:max-w-[150px]" width={200} height={50} />
+                    className="max-w-[100px] md:max-w-[150px]" width={80} height={50} />
 
                 <div className="md:hidden flex items-center justify-end  w-full">
                     <button title="show option" type="button" onClick={(_) => setOptions(prev => !prev)} className="focus:outline-none">
@@ -36,7 +37,7 @@ export const Header: React.FC = () => {
                 </div>
 
                 <div className="hidden md:flex flex-1 justify-center">
-                    <p className="text-md text-yellow-400">Make a call: +91 9102206912</p>
+                    <p className="text-md text-yellow-400">Make a call: +91 6391941162</p>
                 </div>
 
                 <div className="hidden md:flex gap-8 items-center">

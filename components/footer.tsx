@@ -13,7 +13,7 @@ export default function Footer() {
                 <div>
                     <h3 className="text-lg font-semibold mb-4">About Us</h3>
                     <p className="text-sm mb-4">
-                        Gen Solution is a full-service digital marketing agency. Attract,
+                        KAMAOX is a full-service digital marketing agency. Attract,
                         Impress, and Convert more leads online and get results with Thrive..
                     </p>
                     <p className="text-sm">Mon - Sat 10:00 - 7:00,</p>
@@ -44,12 +44,12 @@ export default function Footer() {
                 {/* Office Location */}
                 <div>
                     <h3 className="text-lg font-semibold mb-4">Office Location</h3>
-                    <p className="text-sm mb-2">+91 9102206912</p>
-                    <p className="text-sm">info@gensolution.in</p>
-                    <p className="text-sm mb-2">gensolution4@gmail.com</p>
+                    <p className="text-sm mb-2">+91 6391941162</p>
+                    {/* <p className="text-sm">info@gensolution.in</p> */}
+                    <p className="text-sm mb-2">kamaox.inc@gmail.com</p>
                     <p className="text-sm">
-                        03, LARI KALAN FANIKPUR RAMGARH<br />
-                        Jharkhand India 825101.
+                        Amrutulu, near om shop, GANJAM<br />
+                        Odisha 761108.
                     </p>
                 </div>
             </div>
@@ -57,7 +57,7 @@ export default function Footer() {
             {/* Bottom Bar */}
             <div className="border-t border-gray-600 mt-10 pt-6 flex flex-col lg:flex-row items-center justify-between gap-4">
                 <p className="text-sm text-center lg:text-left">
-                    Copyright © 2025 Gen Solution.
+                    Copyright © 2025 KAMAOX.
                 </p>
                 <div className="flex gap-4 text-xl">
                     <a href="#"><FaFacebookSquare /></a>

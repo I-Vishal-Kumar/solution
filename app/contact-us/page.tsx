@@ -26,24 +26,23 @@ export default function ContactUs() {
                             <p className="text-xl font-bold">Registered Office</p>
                             <div>
                                 <p className="text-xl font-bold">Address:</p>
-                                <p className="text-sm ">03, LARI KALAN FANIKPUR RAMGARH Jhārkhand India 825101.</p>
+                                <p className="text-sm ">Amrutulu, near om shop, GANJAM, Odisha 761108.</p>
                             </div>
                             <div>
                                 <p className="text-xl font-bold">Phone:</p>
-                                <p className="text-sm ">+91 9102206912</p>
+                                <p className="text-sm ">+91 6391941162</p>
                             </div>
                             <div>
                                 <p className="text-xl font-bold">Email:</p>
-                                <p className="text-sm ">info@gensolution.in</p>
-                                <p className="text-sm ">gensolution4@gmail.com</p>
+                                {/* <p className="text-sm ">info@gensolution.in</p> */}
+                                <p className="text-sm ">Kamaox.inc@gmail.com</p>
                             </div>
                             <button type="button" className="px-4 mt-8 py-2 text-black bg-yellow-500">GET APPOINTMENT</button>
                         </div>
                         <div className=" flex-[2] py-8 lg:flex lg:flex-col justify-center lg:p-18 space-y-4 text-gray-800 pb-2 relative ">
                             <iframe
                                 title="Gen Solution Office Map"
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.462211422551!2d85.52504717583929!3d23.554597597793257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f43332aa3fd5cf%3A0x4098d18fd46463db!2sFanikpur%2C%20Ramgarh%2C%20Jharkhand%20825101!5e0!3m2!1sen!2sin!4v1714031478356!5m2!1sen!2sin"
-                                width="100%"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3755.7125699886055!2d84.39851118675747!3d19.724857697990064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a22db0412b4dca9%3A0x20306142c6472d29!2sAmrutulu%2C%20Odisha%20761108!5e0!3m2!1sen!2sin!4v1745909657446!5m2!1sen!2sin"
                                 height="400"
                                 className="rounded-md w-full border-none"
                                 allowFullScreen
