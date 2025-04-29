@@ -4,8 +4,8 @@ export default function Refund() {
             <div className="h-18 w-full bg-[#212d45]" />
             <div className="px-4 text-gray-800 space-y-4 py-8">
                 <h2>Return and Refund Policy</h2>
-                <p>Last updated: January 19, 2025</p>
-                <p>Thank you for shopping at Gen Solution.</p>
+                <p>Last updated: April 29, 2025</p>
+                <p>Thank you for shopping at KAMAOX.</p>
                 <p>
                     If, for any reason, You are not completely satisfied with a
                     purchase We invite You to review our policy on refunds and
@@ -65,11 +65,11 @@ export default function Refund() {
                             <strong>Website</strong> refers to Gen Solution,
                             accessible from{" "}
                             <a
-                                href="https://gensolution.in/"
+                                href="https://Kamaox.shop/"
                                 target="_blank"
                                 rel="external nofollow noopener"
                             >
-                                https://gensolution.in/
+                                https://kamaox.shop/
                             </a>
                         </p>
                     </li>
@@ -154,9 +154,9 @@ export default function Refund() {
                     address:
                 </p>
                 <p>
-                    03, LARI KALAN FANIKPUR RAMGARH
+                    Amrutulu, near om shop, GANJAM
                     <br />
-                    Jhārkhand India 825101.
+                    Odisha India 761108.
                 </p>
                 <p>
                     We cannot be held responsible for Goods damaged or lost in
@@ -183,7 +183,7 @@ export default function Refund() {
                     Policy, please contact us:
                 </p>
                 <ul>
-                    <li>By email: info@gensolution.in</li>
+                    <li>By email: Kamaox.inc@gmail.com</li>
                 </ul>{" "}
             </div>
         </main>

@@ -209,7 +209,7 @@ function GrowthSection() {
 function WelcomeSection() {
   return (
     <div className="md:px-10 px-5 bg-slate-50 py-20">
-      <p className="text-2xl font-semibold text-gray-950">Welcome to Gen Solution</p>
+      <p className="text-2xl font-semibold text-gray-950">Welcome to KAMAOX</p>
       <div className="md:flex space-y-4 justify-between items-center pr-8">
         <p className="text-4xl font-extrabold text-gray-950 mt-9">
           Our Quality Services </p>

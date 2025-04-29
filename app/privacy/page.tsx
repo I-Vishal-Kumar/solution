@@ -4,7 +4,7 @@ export default function Privacy() {
             <div className="h-18 w-full bg-[#212d45]" />
             <div className="px-4 text-gray-800 space-y-4 py-8">
                 <h1>Privacy Policy</h1>
-                <p>Last updated: January 19, 2025</p>
+                <p>Last updated: April 29, 2025</p>
                 <p>
                     This Privacy Policy describes Our policies and procedures on
                     the collection, use and disclosure of Your information when
@@ -73,7 +73,7 @@ export default function Privacy() {
                     </li>
                     <li>
                         <p>
-                            <strong>Country</strong> refers to: Jharkhand, India
+                            <strong>Country</strong> refers to: Odisha, India
                         </p>
                     </li>
                     <li>
@@ -120,11 +120,11 @@ export default function Privacy() {
                             <strong>Website</strong> refers to Gen Solution,
                             accessible from{" "}
                             <a
-                                href="https://gensolution.in/"
+                                href="https://kamaox.shop/"
                                 target="_blank"
                                 rel="external nofollow noopener"
                             >
-                                https://gensolution.in/
+                                https://kamaox.shop/
                             </a>
                         </p>
                     </li>
@@ -576,7 +576,7 @@ export default function Privacy() {
                     contact us:
                 </p>
                 <ul>
-                    <li>By email: info@gensolution.in</li>
+                    <li>By email: Kamaox.inc@gmail.com</li>
                 </ul>{" "}
             </div>
         </main>

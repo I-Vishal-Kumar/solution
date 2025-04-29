@@ -4,7 +4,7 @@ export default function Disclaimer() {
             <div className="h-18 w-full bg-[#212d45]" />
             <div className="px-4 text-gray-800 space-y-4 py-8">
                 <h2>Disclaimer</h2>
-                <p>Last updated: January 19, 2025</p>
+                <p>Last updated: April 29, 2025</p>
                 <h2>Interpretation and Definitions</h2>
                 <h3>Interpretation</h3>
                 <p>
@@ -33,14 +33,14 @@ export default function Disclaimer() {
                         Service, as applicable.
                     </li>
                     <li>
-                        <strong>Website</strong> refers to Gen Solution,
+                        <strong>Website</strong> refers to KAMAOX,
                         accessible from{" "}
                         <a
-                            href="https://gensolution.in/"
+                            href="https://kamaox.shop/"
                             target="_blank"
                             rel="external nofollow noopener"
                         >
-                            https://gensolution.in/
+                            https://kamaox.shop/
                         </a>
                     </li>
                 </ul>
@@ -172,7 +172,7 @@ export default function Disclaimer() {
                     contact Us:
                 </p>
                 <ul>
-                    <li>By email: https://gensolution.in/</li>
+                    <li>By email: https://Kamaox.shop/</li>
                 </ul>{" "}
             </div>
         </main>
